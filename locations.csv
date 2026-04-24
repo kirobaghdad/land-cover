@@ -14,19 +14,19 @@ Suez Port,29.933333,32.566667,port/water/infrastructure,Canal-port scenes with i
 Ain Sokhna,29.600181,32.316711,coastal urban/desert,Red Sea coast with resort/infrastructure patches.,latitude.to,https://latitude.to/map/eg/egypt/cities/ain-sukhna
 Lake Burullus,31.4743,30.8072,wetland/water/agriculture,Excellent lagoon and wetland coverage.,Key Biodiversity Areas,https://www.keybiodiversityareas.org/site/factsheet/6192
 Lake Manzala,31.27856,32.17321,wetland/water/agriculture,Delta lagoon scenes with marsh and water.,geonames.org,https://www.geonames.org/advanced-search.html?q=Lake+Manzala
-Ismailia,30.60427,32.27225,canal/water/agriculture/urban,Canal water with cultivated and urban land cover.,population.mongabay.com,https://population.mongabay.com/cities/egypt/ismailia.html
+Zagazig,30.5877,31.502,delta/agriculture/urban,Delta city with surrounding cropland and canal-lined urban fabric.,latitude.to,https://latitude.to/map/eg/egypt/cities/zagazig
 Rashid (Rosetta),31.40081,30.417189,delta/coastal urban,Nile delta/coastal city context.,maptons.com,https://jm.maptons.com/2930760
-Faiyum,29.3,30.833333,oasis/urban/agriculture,Good mixed oasis and built-up context.,latitude.to,https://latitude.to/articles-by-country/eg/egypt/5697/faiyum
-Lake Qarun,29.45979,30.59148,water/desert edge,Water body with saline and bare-ground margins.,geonames.org,https://www.geonames.org/350714/birkat-qarun.html
+Mallawi,27.73194,30.84111,nile/agriculture/urban,Upper Nile settlement with fertile fields and compact built-up blocks.,Wikipedia,https://en.wikipedia.org/wiki/Mallawi
+Edfu,24.978548,32.87582,nile/agriculture/desert edge,Nile-side city with sharp contrast between fields and surrounding desert.,latlong.net,https://www.latlong.net/place/edfu-aswan-governorate-egypt-13576.html
 Wadi El Natrun,30.416664,30.333333,depression/agriculture/desert,Depression landscape with cultivated pockets.,latitude.to,https://latitude.to/articles-by-country/eg/egypt/19476/wadi-el-natrun
 Beni Suef,29.066667,31.083333,nile/agriculture/urban,Upper Nile cultivated corridor.,latitude.to,https://latitude.to/articles-by-country/eg/egypt/33540/beni-suef
 Minya,28.118333,30.74,nile/agriculture/urban,Nile valley agriculture with city fabric.,latitude.to,https://latitude.to/articles-by-country/eg/egypt/23229/minya-egypt
 Asyut,27.18333,31.16667,nile/agriculture/urban,Useful Upper Egypt agricultural corridor sample.,Wikipedia,https://en.wikipedia.org/wiki/Asyut
-Sohag,26.55695,31.69478,nile/agriculture/urban,Fertile plain and urban settlement mix.,latitude.to,https://latitude.to/map/eg/egypt/cities/sohag
+Nag Hammadi,26.05,32.25,nile/agriculture/urban,Linear Nile settlement with cultivated corridor and adjacent dry land.,Wikipedia,https://en.wikipedia.org/wiki/Nag_Hammadi
 Qena,26.166667,32.716664,nile/agriculture/urban,Upper Egypt river corridor and urban land cover.,latitude.to,https://latitude.to/articles-by-country/eg/egypt/34844/qena
 Kom Ombo,24.466664,32.949997,nile/agriculture/desert edge,Strong river oasis contrast in Aswan governorate.,latitude.to,https://latitude.to/articles-by-country/eg/egypt/26182/kom-ombo
 Abu Simbel,22.3457,31.61624,water/desert,Lake Nasser interface with open desert.,geonames.org,https://www.geonames.org/362041
-Toshka Lakes,23.1,30.9,water/desert reclamation,Unique desert lake and irrigation context.,latitude.to,https://latitude.to/articles-by-country/eg/egypt/61471/toshka-lakes
+Benban Solar Park,24.456,32.739,desert/infrastructure,Highly distinctive solar arrays on bright desert background.,Wikipedia,https://en.wikipedia.org/wiki/Benban_Solar_Park
 Bahariya Oasis,28.35149,28.86239,oasis/desert,Green agricultural pockets within bright desert.,Wikipedia,https://en.wikipedia.org/wiki/Bahariya_Oasis
 Farafra,27.0568,27.96979,oasis/desert,Sparse oasis settlement with wide bare-ground areas.,geonames.org,https://www.geonames.org/search.html?country=EG&q=farafra
 Dakhla Oasis,25.516664,29.166667,oasis/desert/agriculture,Large oasis system with irrigated land.,latitude.to,https://latitude.to/articles-by-country/eg/egypt/25229/dakhla-oasis
@@ -40,5 +40,5 @@ El Gouna,27.39417,33.67825,coastal urban/lagoon,Lagoon-style resort development.
 Marsa Alam,25.066668,34.900002,coastal urban/desert,Red Sea coast with sparse urban footprint.,latlong.net,https://www.latlong.net/place/marsa-alam-qesm-marsa-alam-red-sea-governorate-egypt-9645.html
 Ras Muhammad National Park,27.7222,34.2539,coastal/marine/desert,Marine coast and rocky/desert land cover.,latitude.to,https://latitude.to/articles-by-country/eg/egypt/21939/ras-muhammad-national-park
 Saint Catherine,28.56191,33.94934,mountain/desert,High-relief Sinai terrain unlike delta and oasis scenes.,database.earth,https://database.earth/countries/egypt/regions/south-sinai/cities/saint-catherine
-El Arish,31.1316,33.7984,coastal urban/sand,Northern Sinai coastal city with dunes.,time-ok.com,https://time-ok.com/coordinates/arish
-Lake Bardawil,31.19445,33.14507,lagoon/sand,Coastal lagoon with surrounding sand/dunes.,geonames.org,https://www.geonames.org/advanced-search.html?q=Lake+Bardawil
+Damietta,31.41754,31.814444,delta/coastal urban,"River-mouth city with urban fabric, port edges, and clear water contrast.",latlong.net,https://www.latlong.net/place/damietta-damietta-governorate-egypt-8246.html
+Aswan High Dam,23.970556,32.877778,water/infrastructure/desert,"Very clear reservoir, engineered dam, and surrounding desert.",Wikipedia,https://en.wikipedia.org/wiki/Aswan_High_Dam
