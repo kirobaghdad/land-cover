@@ -42,3 +42,60 @@ Ras Muhammad National Park,27.7222,34.2539,coastal/marine/desert,Marine coast an
 Saint Catherine,28.56191,33.94934,mountain/desert,High-relief Sinai terrain unlike delta and oasis scenes.,database.earth,https://database.earth/countries/egypt/regions/south-sinai/cities/saint-catherine
 Damietta,31.41754,31.814444,delta/coastal urban,"River-mouth city with urban fabric, port edges, and clear water contrast.",latlong.net,https://www.latlong.net/place/damietta-damietta-governorate-egypt-8246.html
 Aswan High Dam,23.970556,32.877778,water/infrastructure/desert,"Very clear reservoir, engineered dam, and surrounding desert.",Wikipedia,https://en.wikipedia.org/wiki/Aswan_High_Dam
+Tanta,30.7833,31.0,delta/agriculture/urban,Major Nile Delta city surrounded by dense agricultural land.,Wikipedia,https://en.wikipedia.org/wiki/Tanta
+Mansoura,31.05,31.383333,delta/agriculture/urban,Large Delta city at the heart of the Nile Delta.,Wikipedia,https://en.wikipedia.org/wiki/Mansoura
+Ismailia,30.604167,32.272222,canal/urban/water,Suez Canal city with lakes and canal waterways.,Wikipedia,https://en.wikipedia.org/wiki/Ismailia
+Sohag,26.559722,31.694722,nile/agriculture/urban,Upper Egypt city with agricultural strips along the Nile.,Wikipedia,https://en.wikipedia.org/wiki/Sohag
+Luxor City,25.686944,32.639722,nile/urban/agriculture,Major tourist city on the Nile with distinct urban fabric.,Wikipedia,https://en.wikipedia.org/wiki/Luxor
+Aswan City,24.088889,32.899722,nile/urban/desert,Southern city at the Nile's edge with granite desert surroundings.,Wikipedia,https://en.wikipedia.org/wiki/Aswan
+Sharm El Sheikh,27.912778,34.329444,coastal urban/desert/marine,Red Sea resort city with coral reefs and bare terrain.,Wikipedia,https://en.wikipedia.org/wiki/Sharm_El-Sheikh
+Safaga,26.748889,33.936389,coastal urban/desert,Red Sea port town with arid surroundings.,Wikipedia,https://en.wikipedia.org/wiki/Safaga
+Fayoum City,29.309167,30.843056,nile/agriculture/lake,Agricultural city near Lake Qarun with distinctive irrigation networks.,Wikipedia,https://en.wikipedia.org/wiki/Faiyum
+Lake Qarun,29.491667,30.583333,lake/desert/agriculture,Inland saline lake in Fayoum depression with desert shores.,Wikipedia,https://en.wikipedia.org/wiki/Lake_Qarun
+Tahta,26.771944,31.501944,nile/agriculture/urban,Upper Egypt Nile town surrounded by cultivated fields.,geonames.org,
+Abu Zaabal,30.266667,31.366667,urban/industrial,Industrial and urban area north of Cairo.,Wikipedia,https://en.wikipedia.org/wiki/Abu_Za%27bal
+Tenth of Ramadan City,30.316667,31.75,urban/desert edge,Planned industrial city on Cairo-Ismailia road.,Wikipedia,https://en.wikipedia.org/wiki/10th_of_Ramadan_City
+El Obour City,30.215278,31.713889,urban/desert edge,Satellite city northeast of Cairo on the desert fringe.,Wikipedia,https://en.wikipedia.org/wiki/El_Obour_City
+Sadat City,30.370556,30.53,urban/desert edge,Planned city in the western desert agricultural expansion zone.,Wikipedia,https://en.wikipedia.org/wiki/Sadat_City
+El Arish,31.128056,33.795833,coastal/urban/sand,North Sinai coastal city with sandy terrain.,Wikipedia,https://en.wikipedia.org/wiki/El-Arish
+Dahab,28.505,34.512778,coastal/desert/urban,Sinai coastal resort town with Gulf of Aqaba frontage.,Wikipedia,https://en.wikipedia.org/wiki/Dahab
+Nuweiba,29.028333,34.672778,coastal/desert,Gulf of Aqaba coastal strip with arid mountains behind.,Wikipedia,https://en.wikipedia.org/wiki/Nuweiba
+Taba,29.498056,34.896389,coastal/desert/border,Extreme northeast Sinai tip at Jordan border.,Wikipedia,https://en.wikipedia.org/wiki/Taba
+Suez City,29.967778,32.541944,urban/canal/industrial,City at the southern entrance of the Suez Canal.,Wikipedia,https://en.wikipedia.org/wiki/Suez
+Wadi Feiran,28.718889,33.627222,mountain/wadi/desert,Sinai mountain valley with sparse vegetation.,Wikipedia,https://en.wikipedia.org/wiki/Wadi_Feiran
+North Sinai Agricultural Area,30.9,32.6,agriculture/desert,Newly developed agricultural projects in North Sinai.,geonames.org,
+Qantara East,30.857222,32.333333,canal/agriculture/urban,Suez Canal crossing zone with irrigated land.,geonames.org,
+Borg El Arab,30.9,29.666667,coastal urban/industry,Industrial and new urban development on Mediterranean coast.,Wikipedia,https://en.wikipedia.org/wiki/Borg_El_Arab
+New Borg El Arab City,30.880556,29.596667,coastal industry/urban,New industrial city on the Mediterranean coast.,Wikipedia,https://en.wikipedia.org/wiki/Borg_El_Arab_City
+El Hammam,30.866667,29.083333,coastal/agriculture/desert,Coastal strip with new agricultural reclamation projects.,geonames.org,
+Nasr City Cairo,30.065556,31.341389,dense urban,Cairo largest urban district with dense infrastructure.,Wikipedia,https://en.wikipedia.org/wiki/Nasr_City
+Heliopolis Cairo,30.091667,31.321667,dense urban,Historic urban district in northeast Cairo.,Wikipedia,https://en.wikipedia.org/wiki/Heliopolis_(Cairo)
+Maadi Cairo,29.958333,31.258333,urban/greenery/nile edge,Upscale Cairo suburb with tree-lined streets.,Wikipedia,https://en.wikipedia.org/wiki/Maadi
+El Shorouk City,30.13,31.616667,urban/desert edge,Modern satellite city on the eastern Cairo desert fringe.,Wikipedia,https://en.wikipedia.org/wiki/El_Shorouk_City
+Maghagha,28.646944,30.841111,nile/agriculture/urban,Middle Egypt Nile town with narrow agricultural strip.,geonames.org,
+Matay,28.42,30.784722,nile/agriculture/urban,Middle Egypt Minya governorate Nile town.,geonames.org,
+Samalut,28.305556,30.709167,nile/agriculture/urban,Middle Egypt Minya governorate Nile town.,geonames.org,
+Dishna,26.116667,32.533333,nile/agriculture/urban,Qena governorate Nile town surrounded by fields.,geonames.org,
+Isna,25.298333,32.556389,nile/agriculture/urban,Upper Egypt Nile city in Luxor governorate.,Wikipedia,https://en.wikipedia.org/wiki/Esna
+Akhmim,26.563889,31.746389,nile/agriculture/urban,Upper Egypt Nile city across from Sohag.,Wikipedia,https://en.wikipedia.org/wiki/Akhmim
+Badari,26.986111,31.416667,nile/agriculture/urban,Upper Egypt Asyut governorate Nile town.,geonames.org,
+Bibba,28.933333,30.733333,nile/agriculture,Small Beni Suef governorate town with agricultural strips.,geonames.org,
+Gerga,26.338333,31.892222,nile/agriculture/urban,Small Upper Egypt Nile town with dense cultivated borders.,geonames.org,
+Balyana,26.233333,32.0,nile/agriculture/urban,Upper Egypt agricultural town near the Nile.,geonames.org,
+Sanabu,26.666667,31.616667,nile/agriculture/urban,Upper Egypt town in the Nile valley.,geonames.org,
+Abu Qurqas,27.928333,30.850556,nile/agriculture/urban,Minya governorate small agricultural town on the Nile.,geonames.org,
+Idfu South Fields,24.883333,32.883333,nile/agriculture/desert edge,Southern Nile agricultural strip near Idfu.,geonames.org,
+Kom Ombo Sugar Factory,24.5,32.95,industry/agriculture,Large agro-industrial complex on the Nile.,geonames.org,
+Wadi El Gedid Interior,25.0,30.0,oasis/desert,New Valley governorate interior with sparse oasis settlements.,geonames.org,
+Lake Nasser South,22.0,32.5,water/desert,Deep southern reaches of Lake Nasser in open desert.,geonames.org,
+Nagaa Hammadi Industrial,26.041667,32.266667,industry/agriculture/urban,Industrial sugarcane processing area on the Nile.,geonames.org,
+Bir El Abd,30.928333,32.994167,desert/infrastructure,Sinai peninsula inland desert landscape.,geonames.org,
+Rafah Sinai,31.286944,34.24,urban/sand/coastal,Border city in North Sinai with desert terrain.,Wikipedia,https://en.wikipedia.org/wiki/Rafah
+Sohag East Bank,26.59,31.85,agriculture/desert edge,East bank of the Nile at Sohag with desert cliff contrast.,geonames.org,
+Abu Rawash,30.053611,31.074722,urban/desert edge,Ancient site area northwest of Giza on the desert edge.,Wikipedia,https://en.wikipedia.org/wiki/Abu_Rawash
+Marsa Matruh Coastal Strip,31.382,27.198,coastal/sand,Isolated sandy coastal strip west of Matruh.,geonames.org,
+El Mahalla El Kubra,30.976944,31.1625,delta/agriculture/urban/industry,Major industrial city in the Nile Delta textile industry.,Wikipedia,https://en.wikipedia.org/wiki/Mahalla_El-Kubra
+Kafr El Sheikh,31.107222,30.938889,delta/agriculture/urban,Delta governorate capital surrounded by agricultural land.,Wikipedia,https://en.wikipedia.org/wiki/Kafr_El-Sheikh
+Benha,30.466667,31.183333,delta/agriculture/urban,Capital of Qalyubia with dense Nile Delta agriculture.,Wikipedia,https://en.wikipedia.org/wiki/Banha
+Shibin El Kom,30.55,30.983333,delta/agriculture/urban,Monufia governorate capital in the central Delta.,Wikipedia,https://en.wikipedia.org/wiki/Shibin_El-Kom
+Abu Kabir,30.726944,31.666944,delta/agriculture/urban,Sharkia governorate agricultural Delta town.,Wikipedia,https://en.wikipedia.org/wiki/Abu_Kabir
